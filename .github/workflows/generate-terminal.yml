@@ -16,10 +16,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Example
+      - name: Metrics
         uses: lowlighter/metrics@latest
         with:
           template: terminal
           filename: metrics.terminal.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           base: header, metadata
