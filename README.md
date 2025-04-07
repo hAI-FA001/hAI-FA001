@@ -15,13 +15,80 @@
 
 <hr>
 
-## 🛠️ Languages and Tools
+## 🛠️ All Languages and Tools
 
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=anaconda,bash,blender,bootstrap,c,cpp,cmake,css,dart,docker,express,fastapi,figma,firebase,flask,flutter,git,github,githubactions,grafana,html,idea,java,js,jquery,laravel,latex,less,linux,lua,materialui,matlab,mint,mongodb,mysql,nextjs,nodejs,npm,opencv,php,postgres,postman,powershell,prisma,prometheus,py,pytorch,react,regex,sqlite,stackoverflow,sklearn,sentry,tailwind,tensorflow,ubuntu,vercel,vite,vscode&perline=20" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=anaconda,python,scikitlearn,pytorch,tensorflow,opencv,googlecolab,jupyter,pycharm" />
 </p>
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib,numpy,pandas,seaborn,scipy,leaflet,mlflow" />
+</p>
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=ollama,deepseek,gemini,groq,pinecone,qdrant,langchain,llamaindex,crewai" />
+</p>
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=flask,fastapi,laravel,gradio,streamlit" />
+</p>
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=assembly,c,cpp,cmake,yaml,docker,virtualbox,wsl,linux,ubuntu,mint,bash,powershell,terminal,tmux" />
+</p>
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,php,bootstrap,tailwind,materialui,daisyui,shadcn,jquery,less,nodejs,react,nextjs,express" />
+</p>
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=firebase,mongodb,mysql,postgres,sqlite,prisma,drizzle,sqlalchemy" />
+</p>
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=dart,flutter,reactnative" />
+</p>
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=npm,vite,vercel,expo,composer,postman" />
+</p>
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=wireshark,regex" />
+</p>
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=grafana,prometheus,sentry,clerk,strapi" />
+</p>
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=visualstudio,vscode,idea,git,github,githubactions,stackoverflow" />
+</p>
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,matlab,lua,rust" />
+</p>
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=blender,figma" />
+</p>
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=kaggle,huggingface,reddit" />
+</p>
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=latex,markdown" />
+</p>
+
+<hr>
+
+## 🎓 CS Resources
+
+<br>
+
+- <a href="https://github.com/hAI-FA001/Building-GPT--Learn">Generative Pre-Trained Transformer from scratch in PyTorch</a>
+- <a href="https://github.com/hAI-FA001/Artificial-Intelligence-Lab">Artificial Intelligence Labs</a>
+- <a href="https://github.com/hAI-FA001/Machine-Learning">Machine Learning (Algorithm Implementations)</a>
+- <a href="https://github.com/hAI-FA001/Xeven-AI-Advance-Course">Xeven Advance AI Course Solutions</a>
+- <a href="https://github.com/hAI-FA001/Computer-Architecture-MIPS-Codes">Undergrad Computer Architecture (MIPS Assembly)</a>
+- <a href="https://github.com/hAI-FA001/Computer-Organization-and-Assembly-Language-Course">Undergrad Computer Organization and Assembly Language (Intel 8086 Assembly</a>
+- <a href="https://github.com/hAI-FA001/Design-and-Analysis-Of-Algorithms">Undergrad Design and Analysis of Algorithms (Implementation and Visualizations)</a>
+- <a href="https://github.com/hAI-FA001/Theory-of-Automata">Undergrad Theory of Automata (Turing, Mealy and Moore Machines)</a>
+- <a href="https://github.com/hAI-FA001/web-tech_fa21-bcs-001">Undergrad Web-Tech Course</a>
+- <a href="https://github.com/hAI-FA001/Digital-Image-Processing">Undergrad Digital Image Processing Course (MATLAB)</a>
+- <a href="https://github.com/hAI-FA001/React--Learn">ReactJS 18</a>
+- <a href="https://github.com/hAI-FA001/NextJS-14--Learn">NextJS 14</a>
+- <a href="https://github.com/hAI-FA001/React-Native--Learn">React Native</a>
+- <a href="https://github.com/hAI-FA001/Design-Patterns--Learn">Design Patterns</a>
+- <a href="https://github.com/hAI-FA001/Modern-Cpp--Learn">Modern C++</a>
 
 <hr>
 
