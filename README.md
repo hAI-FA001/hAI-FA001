@@ -29,13 +29,13 @@
 <br>
 
 <a href="https://github.com/hAI-FA001">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hai-fa001&theme=dracula&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="hAI-FA001's GitHub Stats" />
-</a>
-<a href="https://github.com/hAI-FA001">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hai-fa001&theme=dracula&count_private=true&border_radius=10&locale=en" alt="hAI-FA001's GitHub Streak Stats" />
+  <img height=200 width=1000 align="center" src="https://github-readme-stats.vercel.app/api?username=hai-fa001&theme=dracula&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="hAI-FA001's GitHub Stats" />
 </a>
 <a href="https://github.com/hAI-FA001">
   <img height=400 width=1000 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hai-fa001&theme=dracula&layout=donut-vertical&hide=jupyter%20notebook&langs_count=13&border_radius=10&show_icons=true&locale=en&count_private=true" alt="hAI-FA001's Most Used Languages" />
+</a>
+<a href="https://github.com/hAI-FA001">
+  <img height=200 width=1000 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hai-fa001&theme=dracula&count_private=true&border_radius=10&locale=en" alt="hAI-FA001's GitHub Streak Stats" />
 </a>
 
 <hr>
