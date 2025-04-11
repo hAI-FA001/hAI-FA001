@@ -4,18 +4,16 @@
 </div>
 -->
 
-<h1 align="center">
+<!-- <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+HAI;" />
-</h1>
-<p align="center">A Computer Scientist passionate about learning.</p>
-
-<hr>
-
-<p align="center"><img src="/metrics.terminal.svg" alt="Metrics" width="400"></p>
+</h1> -->
+<h1 align="center"><img src="/metrics.terminal.svg" alt="Metrics" width="400"></h1>
+<p align="center">A Curious Computer Scientist</p>
 
 <hr>
 
 ## 🛠️ All Languages and Tools
+These are all the tools, frameworks and languages I've interacted with throughout my learning journey.
 
 <br>
 
