@@ -12,59 +12,69 @@
 
 <hr>
 
-## 🛠️ All Languages and Tools
-These are all the tools, frameworks and languages I've interacted with throughout my learning journey.
+## 🎓 Specialization
+These are the tools I've used most frequently.
 
 <br>
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=anaconda,python,scikitlearn,pytorch,tensorflow,opencv,googlecolab,jupyter,pycharm" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,scikitlearn,pytorch,tensorflow,opencv,jupyter" />
 </p>
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib,numpy,pandas,seaborn,scipy,leaflet,mlflow" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib,numpy,pandas,seaborn,scipy,kaggle,huggingface,googlecolab" />
 </p>
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=ollama,deepseek,gemini,groq,pinecone,qdrant,langchain,llamaindex,crewai" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=ollama,gemini,langchain,fastapi,streamlit,firebase,mongodb,sqlite" />
 </p>
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=flask,fastapi,laravel,gradio,streamlit" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=virtualbox,wsl,ubuntu,mint,terminal,tmux,git,github" />
 </p>
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=assembly,c,cpp,cmake,yaml,docker,virtualbox,wsl,linux,ubuntu,mint,bash,powershell,terminal,tmux" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=matlab,blender,latex,markdown,vscode,figma" />
+</p>
+
+<br>
+
+## Complementary
+
+<br>
+
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=leaflet,mlflow,laravel,prisma,drizzle,sqlalchemy,postman,githubactions" />
 </p>
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,php,bootstrap,tailwind,materialui,daisyui,shadcn,jquery,less,nodejs,react,nextjs,express" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=assembly,c,cpp,yaml,docker" />
 </p>
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=firebase,mongodb,mysql,postgres,sqlite,prisma,drizzle,sqlalchemy" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,php,bootstrap,tailwind,nodejs,react,express" />
 </p>
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=dart,flutter,reactnative" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=dart,flutter,npm,vite,vercel" />
 </p>
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=npm,vite,vercel,expo,composer,postman" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=wireshark,regex,grafana,prometheus,strapi,visualstudio,idea" />
+</p>
+
+<br>
+
+<hr />
+
+<br>
+
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=flask,gradio,reactnative" />
 </p>
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=wireshark,regex" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cmake,expo,composer,sentry,clerk" />
 </p>
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=grafana,prometheus,sentry,clerk,strapi" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=materialui,daisyui,shadcn,jquery,less,nextjs" />
 </p>
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=visualstudio,vscode,idea,git,github,githubactions,stackoverflow" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=visualstudio,java,lua,rust,reddit" />
 </p>
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,matlab,lua,rust" />
-</p>
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=blender,figma" />
-</p>
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=kaggle,huggingface,reddit" />
-</p>
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=latex,markdown" />
-</p>
+
+<br>
 
 <hr>
 
@@ -97,9 +107,9 @@ These are all the tools, frameworks and languages I've interacted with throughou
 <a href="https://github.com/hAI-FA001">
   <img height=200 width=1000 align="center" src="https://github-readme-stats.vercel.app/api?username=hai-fa001&theme=dracula&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="hAI-FA001's GitHub Stats" />
 </a>
-<a href="https://github.com/hAI-FA001">
-  <img height=400 width=1000 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hai-fa001&theme=dracula&layout=donut-vertical&hide=jupyter%20notebook&langs_count=13&border_radius=10&show_icons=true&locale=en&count_private=true" alt="hAI-FA001's Most Used Languages" />
-</a>
+<!-- <a href="https://github.com/hAI-FA001"> -->
+<!--   <img height=400 width=1000 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hai-fa001&theme=dracula&layout=donut-vertical&hide=jupyter%20notebook&langs_count=13&border_radius=10&show_icons=true&locale=en&count_private=true" alt="hAI-FA001's Most Used Languages" /> -->
+<!-- </a> -->
 <a href="https://github.com/hAI-FA001">
   <img height=200 width=1000 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hai-fa001&theme=dracula&count_private=true&border_radius=10&locale=en" alt="hAI-FA001's GitHub Streak Stats" />
 </a>
