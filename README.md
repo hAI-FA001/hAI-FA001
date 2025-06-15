@@ -7,13 +7,16 @@
 <!-- <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+HAI;" />
 </h1> -->
-<h1 align="center"><img src="/metrics.terminal.svg" alt="Metrics" width="400"></h1>
-<p align="center">A Curious Computer Scientist</p>
+
+<div>
+  <img src="/metrics.terminal.svg" alt="Metrics">
+  <p align="right">A Curious CS Student</p>
+</div>
 
 <hr>
 
 ## 🎓 Specialization
-These are the tools I've used most frequently.
+The tools I frequent.
 
 <br>
 
@@ -35,7 +38,8 @@ These are the tools I've used most frequently.
 
 <br>
 
-## Complementary
+## 🔧 Complementary
+Other tools I've encountered.
 
 <br>
 
