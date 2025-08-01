@@ -15,7 +15,7 @@
 
 <hr>
 
-## 🎓 Specialization
+<!--## 🎓 Specialization
 The tools I frequent.
 
 <br>
@@ -80,7 +80,7 @@ Other tools I've encountered.
 
 <br>
 
-<hr>
+<hr>-->
 
 ## 🎓 CS Resources
 
