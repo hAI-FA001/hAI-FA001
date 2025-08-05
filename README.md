@@ -86,6 +86,7 @@ Other tools I've encountered.
 
 <br>
 
+- <a href="https://github.com/hAI-FA001/Agentic-AI-Engineering-Workshop">Agentic AI Engineering Workshop by Jon Krohn and Ed Donner</a>
 - <a href="https://github.com/hAI-FA001/Building-GPT--Learn">Generative Pre-Trained Transformer from scratch in PyTorch</a>
 - <a href="https://github.com/hAI-FA001/Artificial-Intelligence-Lab">Artificial Intelligence Labs</a>
 - <a href="https://github.com/hAI-FA001/Machine-Learning">Machine Learning (Algorithm Implementations)</a>
