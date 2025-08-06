@@ -19,6 +19,7 @@
 - [Learning Resources](#-learning-resources)
 - [Google Developer Group Workshops](#%EF%B8%8F-google-developer-group-gdg-workshops)
 - [Open-Source Contributions](#-open-source-contributions)
+- [Open-Source Tools](#-open-source-tools)
 - [Statistics](#%EF%B8%8F-statistics)
 - [Animated Contribution Graph](#-animated-contribution-graph)
 
@@ -128,6 +129,8 @@ Other tools I've encountered.
 - Gemini CLI (Repo Later)
 - Learn Flutter (Repo Later)
 
+<hr>
+
 ## ✨ Open-Source Contributions
 - <a href="https://github.com/hAI-FA001/satlas-super-resolution">Satlas Super Resolution</a>
   - CPU inference
@@ -154,6 +157,17 @@ Other tools I've encountered.
     - Import
     - Logging
     - Wrongful termination in prediction endpoint even when model is loaded
+
+<hr>
+
+## 🔧 Open-Source Tools
+- <a href="https://github.com/hAI-FA001/CUI-Time-Table-To-Dataset--Utility">University Schedule -> CSV Dataset, with Jupyter Notebook Analysis</a>
+- <a href="https://github.com/hAI-FA001/Test-Web-Concepts">Reference for Complex WebDev Setups</a>
+  - Cross-Domain HTTP Cookies/Session setup
+- <a href="https://github.com/hAI-FA001/UEFormat-Exporter">UEFormat Exporter Add-on for Blender3D</a>
+- <a href="https://github.com/hAI-FA001/Extract-Images-from-DICOM">DICOM/DCM Image Extractor</a>
+
+<hr>
 
 ## ⚡️ Statistics
 
