@@ -17,6 +17,10 @@
 
 # At a Glance
 - [Learning Resources](#-learning-resources)
+  - [AI Resources](#ai-resources)
+  - [Undergrad AI](#undergrad-ai)
+  - [Undergrad CS](#undergrad-cs)
+  - [Non-AI Resources](#non-ai-resources)
 - [Google Developer Group Workshops](#%EF%B8%8F-google-developer-group-gdg-workshops)
 - [Open-Source Contributions](#-open-source-contributions)
 - [Open-Source Tools](#-open-source-tools)
