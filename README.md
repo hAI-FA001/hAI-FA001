@@ -15,6 +15,15 @@
 
 <hr>
 
+# At a Glance
+- [Learning Resources](#learning-resources)
+- [Google Developer Group Workshops](#google-developer-group-(gdg)-workshops)
+- [Open-Source Contributions](#open-source-contributions)
+- [Statistics](#statistics)
+- [Animated Contribution Graph](#animated-contribution-graph)
+
+<hr>
+
 <!--## 🎓 Specialization
 The tools I frequent.
 
@@ -82,21 +91,30 @@ Other tools I've encountered.
 
 <hr>-->
 
-## 🎓 CS Resources
+## 🎓 Learning Resources
 
 <br>
 
-- <a href="https://github.com/hAI-FA001/Agentic-AI-Engineering-Workshop">Agentic AI Engineering Workshop by Jon Krohn and Ed Donner</a>
-- <a href="https://github.com/hAI-FA001/Building-GPT--Learn">Generative Pre-Trained Transformer from scratch in PyTorch</a>
+### AI Resources
+- <a href="https://github.com/hAI-FA001/Agentic-AI-Engineering-Workshop">Agentic AI Engineering Workshop (Jon Krohn and Ed Donner)</a>
+- <a href="https://github.com/hAI-FA001/Building-GPT--Learn">Generative Pre-Trained Transformer from scratch in PyTorch (Andrej Karpathy)</a>
+- <a href="https://github.com/hAI-FA001/Intro-to-NLP-in-Python--DataCamp">Introduction to NLP in Python (DataCamp)</a>
+- <a href="https://github.com/hAI-FA001/Xeven-AI-Advance-Course">Xeven Advance AI Course (Solutions)</a>
+
+### Undergrad AI
 - <a href="https://github.com/hAI-FA001/Artificial-Intelligence-Lab">Artificial Intelligence Labs</a>
 - <a href="https://github.com/hAI-FA001/Machine-Learning">Machine Learning (Algorithm Implementations)</a>
-- <a href="https://github.com/hAI-FA001/Xeven-AI-Advance-Course">Xeven Advance AI Course Solutions</a>
+
+### Undergrad CS
 - <a href="https://github.com/hAI-FA001/Computer-Architecture-MIPS-Codes">Undergrad Computer Architecture (MIPS Assembly)</a>
 - <a href="https://github.com/hAI-FA001/Computer-Organization-and-Assembly-Language-Course">Undergrad Computer Organization and Assembly Language (Intel 8086 Assembly</a>
 - <a href="https://github.com/hAI-FA001/Design-and-Analysis-Of-Algorithms">Undergrad Design and Analysis of Algorithms (Implementation and Visualizations)</a>
 - <a href="https://github.com/hAI-FA001/Theory-of-Automata">Undergrad Theory of Automata (Turing, Mealy and Moore Machines)</a>
 - <a href="https://github.com/hAI-FA001/web-tech_fa21-bcs-001">Undergrad Web-Tech Course</a>
 - <a href="https://github.com/hAI-FA001/Digital-Image-Processing">Undergrad Digital Image Processing Course (MATLAB)</a>
+
+### Non-AI Resources
+- <a href="https://github.com/hAI-FA001/laracasts-laravel-30-days">Laravel in 30 Days (Laracasts)</a>
 - <a href="https://github.com/hAI-FA001/React--Learn">ReactJS 18</a>
 - <a href="https://github.com/hAI-FA001/NextJS-14--Learn">NextJS 14</a>
 - <a href="https://github.com/hAI-FA001/React-Native--Learn">React Native</a>
@@ -105,7 +123,39 @@ Other tools I've encountered.
 
 <hr>
 
-## ⚡️ Stats
+## 🛠️ Google Developer Group (GDG) Workshops
+- <a href="https://github.com/hAI-FA001/GDG-Flutter-Workshop-Agentic-App">Agentic App with Flutter</a>
+- Gemini CLI (Repo Later)
+- Learn Flutter (Repo Later)
+
+## ✨ Open-Source Contributions
+- <a href="https://github.com/hAI-FA001/satlas-super-resolution">Satlas Super Resolution</a>
+  - CPU inference
+  - Fixes
+  - Change OpenAI CLIP Location
+  - Show current metric in progress bar for evals
+  - Misc
+- Updates and Maintainence of PyXenoverse and YA-Tools:
+  - <a href="https://github.com/hAI-FA001/pyxenoverse">PyXenoverse</a>
+  - <a href="https://github.com/hAI-FA001/YaBACOrganizer">YaBAC Organizer</a>
+  - <a href="https://github.com/hAI-FA001/YaEANOrganizer">YaEAN Organizer</a>
+  - <a href="https://github.com/hAI-FA001/YaBSAOrganizer">YaBSA Organizer</a>
+  - <a href="https://github.com/hAI-FA001/YaBDMOrganizer">YaBDM Organizer</a>
+  - <a href="https://github.com/hAI-FA001/YaBCMOrganizer">YaBCM Organizer</a>
+- <a href="https://github.com/hAI-FA001/finetune-anything">finetune-anything</a>
+  - Post-Training Quantization + support for x86 architectures
+  - CPU inference
+  - Loss curve visualization script
+  - Integration of `torchinfo` for displaying model architecture
+- <a href="https://github.com/hAI-FA001/flask-ml-azure-serverless">Flask ML Azure Serverless</a>
+  - Update to Python 3.12
+  - Update trained ML model for compatibility with newer Scikit-Learn
+  - Fixes
+    - Import
+    - Logging
+    - Wrongful termination in prediction endpoint even when model is loaded
+
+## ⚡️ Statistics
 
 <br>
 
@@ -121,7 +171,7 @@ Other tools I've encountered.
 
 <hr>
 
-## 🐍 My Contributions
+## 🐍 Animated Contribution Graph
 
 <div align="center">
   <picture>
