@@ -16,11 +16,11 @@
 <hr>
 
 # At a Glance
-- [Learning Resources](#learning-resources)
-- [Google Developer Group Workshops](#google-developer-group-(gdg)-workshops)
-- [Open-Source Contributions](#open-source-contributions)
-- [Statistics](#statistics)
-- [Animated Contribution Graph](#animated-contribution-graph)
+- [Learning Resources](#-learning-resources)
+- [Google Developer Group Workshops](#%EF%B8%8F-google-developer-group-gdg-workshops)
+- [Open-Source Contributions](#-open-source-contributions)
+- [Statistics](#%EF%B8%8F-statistics)
+- [Animated Contribution Graph](#-animated-contribution-graph)
 
 <hr>
 
