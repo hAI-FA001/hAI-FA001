@@ -21,7 +21,7 @@
   - [Undergrad AI](#undergrad-ai)
   - [Undergrad CS](#undergrad-cs)
   - [Non-AI Resources](#non-ai-resources)
-- [Google Developer Group Workshops](#%EF%B8%8F-google-developer-group-gdg-workshops)
+- [Google Developer Group Workshops Attended](#%EF%B8%8F-google-developer-group-gdg-workshops-attended)
 - [Open-Source Contributions](#-open-source-contributions)
 - [Open-Source Tools](#-open-source-tools)
 - [Statistics](#%EF%B8%8F-statistics)
@@ -128,7 +128,7 @@ Other tools I've encountered.
 
 <hr>
 
-## 🛠️ Google Developer Group (GDG) Workshops
+## 🛠️ Google Developer Group (GDG) Workshops Attended
 - <a href="https://github.com/hAI-FA001/GDG-Flutter-Workshop-Agentic-App">Agentic App with Flutter</a>
 - Gemini CLI (Repo Later)
 - Learn Flutter (Repo Later)
