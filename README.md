@@ -130,8 +130,9 @@ Other tools I've encountered.
 
 ## 🛠️ Google Developer Group (GDG) Workshops Attended
 - <a href="https://github.com/hAI-FA001/GDG-Flutter-Workshop-Agentic-App">Agentic App with Flutter</a>
-- Gemini CLI (Repo Later)
-- Learn Flutter (Repo Later)
+- Gemini CLI (demonstrated by making a portfolio)
+- Learn Flutter (demonstrated by integrating with firebase for authentication, and making UI forms)
+- Code faster with GitHub Copilot (demonstrated by making a portfolio)
 
 <hr>
 
