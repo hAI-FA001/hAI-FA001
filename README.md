@@ -21,6 +21,7 @@
   - [Undergrad AI](#undergrad-ai)
   - [Undergrad CS](#undergrad-cs)
   - [Non-AI Resources](#non-ai-resources)
+  - [Grad Learnings](#grad-learnings)
 - [Google Developer Group Workshops Attended](#%EF%B8%8F-google-developer-group-gdg-workshops-attended)
 - [Open-Source Contributions](#-open-source-contributions)
 - [Open-Source Tools](#-open-source-tools)
@@ -126,6 +127,10 @@ Other tools I've encountered.
 - <a href="https://github.com/hAI-FA001/Design-Patterns--Learn">Design Patterns</a>
 - <a href="https://github.com/hAI-FA001/Modern-Cpp--Learn">Modern C++</a>
 
+### Grad Learnings
+- <a href="https://github.com/hAI-FA001/Explainable-AI-XAI">Explainable AI</a>
+- <a href="https://github.com/hAI-FA001/Quantum-Computing">Quantum Computing</a>
+
 <hr>
 
 ## 🛠️ Google Developer Group (GDG) Workshops Attended
@@ -133,6 +138,7 @@ Other tools I've encountered.
 - Gemini CLI (demonstrated by making a portfolio)
 - Learn Flutter (demonstrated by integrating with firebase for authentication, and making UI forms)
 - Code faster with GitHub Copilot (demonstrated by making a portfolio)
+- MCP Servers: The Protocol for Real-World AI Interoperability (Repo Later)
 
 <hr>
 
