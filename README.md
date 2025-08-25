@@ -106,6 +106,7 @@ Other tools I've encountered.
 - <a href="https://github.com/hAI-FA001/Building-GPT--Learn">Generative Pre-Trained Transformer from scratch in PyTorch (Andrej Karpathy)</a>
 - <a href="https://github.com/hAI-FA001/Intro-to-NLP-in-Python--DataCamp">Introduction to NLP in Python (DataCamp)</a>
 - <a href="https://github.com/hAI-FA001/Xeven-AI-Advance-Course">Xeven Advance AI Course (Solutions)</a>
+- <a href="https://github.com/hAI-FA001/Build-a-Large-Language-Model-from-Scratch--Learn">Build a Large Language Model from Scratch (Book)</a>
 
 ### Undergrad AI
 - <a href="https://github.com/hAI-FA001/Artificial-Intelligence-Lab">Artificial Intelligence Labs</a>
