@@ -102,6 +102,7 @@ Other tools I've encountered.
 <br>
 
 ### AI Resources
+- <a href="https://github.com/hAI-FA001/Agentic-AI-No-Code-Automation--LUMS-Workshop">Agentic AI and No-Code Automation Workshop (LUMS)</a>
 - <a href="https://github.com/hAI-FA001/Agentic-AI-Engineering-Workshop">Agentic AI Engineering Workshop (Jon Krohn and Ed Donner)</a>
 - <a href="https://github.com/hAI-FA001/Building-GPT--Learn">Generative Pre-Trained Transformer from scratch in PyTorch (Andrej Karpathy)</a>
 - <a href="https://github.com/hAI-FA001/Intro-to-NLP-in-Python--DataCamp">Introduction to NLP in Python (DataCamp)</a>
