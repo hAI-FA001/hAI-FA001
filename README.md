@@ -8,11 +8,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+HAI;" />
 </h1> -->
 
-<div>
+<!-- <div> -->
   <!-- <img src="/metrics.terminal.svg" alt="Metrics"> -->
   <!-- <p align="right">A Curious CS Student</p> -->
-  ![Header](./profile/header-banner.png)
-</div>
+<!-- </div> -->
+![Header](./profile/header-banner.png)
 
 <hr>
 
