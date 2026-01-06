@@ -12,7 +12,7 @@
   <!-- <img src="/metrics.terminal.svg" alt="Metrics"> -->
   <!-- <p align="right">A Curious CS Student</p> -->
 <!-- </div> -->
-![Header](./profile/header-banner.png)
+![Header](./profile/banner.png)
 
 <hr>
 
