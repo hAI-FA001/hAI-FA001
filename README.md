@@ -113,6 +113,7 @@ Other tools I've encountered.
 ### Undergrad AI
 - <a href="https://github.com/hAI-FA001/Artificial-Intelligence-Lab">Artificial Intelligence Labs</a>
 - <a href="https://github.com/hAI-FA001/Machine-Learning">Machine Learning (Algorithm Implementations)</a>
+- <a href="https://github.com/hAI-FA001/Computer-Vision---From-Classical-to-Deep-Learning">Undergrad Computer Vision (Classical + Deep Learning)</a>
 
 ### Undergrad CS
 - <a href="https://github.com/hAI-FA001/Computer-Architecture-MIPS-Codes">Undergrad Computer Architecture (MIPS Assembly)</a>
@@ -121,7 +122,6 @@ Other tools I've encountered.
 - <a href="https://github.com/hAI-FA001/Theory-of-Automata">Undergrad Theory of Automata (Turing, Mealy and Moore Machines)</a>
 - <a href="https://github.com/hAI-FA001/web-tech_fa21-bcs-001">Undergrad Web-Tech Course</a>
 - <a href="https://github.com/hAI-FA001/Digital-Image-Processing">Undergrad Digital Image Processing Course (MATLAB)</a>
-- <a href="https://github.com/hAI-FA001/Computer-Vision---From-Classical-to-Deep-Learning">Undergrad Computer Vision (Classical + Deep Learning)</a>
 
 ### Non-AI Resources
 - <a href="https://github.com/hAI-FA001/laracasts-laravel-30-days">Laravel in 30 Days (Laracasts)</a>
