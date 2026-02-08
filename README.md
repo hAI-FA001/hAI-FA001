@@ -1,6 +1,6 @@
 <!-- <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/hAI-FA001/count.svg" alt="Visitor's Count" />
+  <img src="https://profile-counter.glitch.me/l-laidev/count.svg" alt="Visitor's Count" />
 </div>
 -->
 
@@ -103,44 +103,44 @@ Other tools I've encountered.
 <br>
 
 ### AI Resources
-- <a href="https://github.com/hAI-FA001/Agentic-AI-No-Code-Automation--LUMS-Workshop">Agentic AI and No-Code Automation Workshop (LUMS)</a>
-- <a href="https://github.com/hAI-FA001/Agentic-AI-Engineering-Workshop">Agentic AI Engineering Workshop (Jon Krohn and Ed Donner)</a>
-- <a href="https://github.com/hAI-FA001/Building-GPT--Learn">Generative Pre-Trained Transformer from scratch in PyTorch (Andrej Karpathy)</a>
-- <a href="https://github.com/hAI-FA001/Intro-to-NLP-in-Python--DataCamp">Introduction to NLP in Python (DataCamp)</a>
-- <a href="https://github.com/hAI-FA001/Xeven-AI-Advance-Course">Xeven Advance AI Course (Solutions)</a>
-- <a href="https://github.com/hAI-FA001/Context-Engineering-with-DSPy">Context Engineering with DSPy (YT: Neural Breakdown with AVB)</a>
-- <a href="https://github.com/hAI-FA001/Build-a-Large-Language-Model-from-Scratch--Learn">Build a Large Language Model from Scratch (Book)</a>
-- <a href="https://github.com/hAI-FA001/Practical-Deep-Learning-for-Coders-FastAI--Learn">Practical Deep Learning for Coders - Part I (FastAI)</a>
+- <a href="https://github.com/l-laidev/Agentic-AI-No-Code-Automation--LUMS-Workshop">Agentic AI and No-Code Automation Workshop (LUMS)</a>
+- <a href="https://github.com/l-laidev/Agentic-AI-Engineering-Workshop">Agentic AI Engineering Workshop (Jon Krohn and Ed Donner)</a>
+- <a href="https://github.com/l-laidev/Building-GPT--Learn">Generative Pre-Trained Transformer from scratch in PyTorch (Andrej Karpathy)</a>
+- <a href="https://github.com/l-laidev/Intro-to-NLP-in-Python--DataCamp">Introduction to NLP in Python (DataCamp)</a>
+- <a href="https://github.com/l-laidev/Xeven-AI-Advance-Course">Xeven Advance AI Course (Solutions)</a>
+- <a href="https://github.com/l-laidev/Context-Engineering-with-DSPy">Context Engineering with DSPy (YT: Neural Breakdown with AVB)</a>
+- <a href="https://github.com/l-laidev/Build-a-Large-Language-Model-from-Scratch--Learn">Build a Large Language Model from Scratch (Book)</a>
+- <a href="https://github.com/l-laidev/Practical-Deep-Learning-for-Coders-FastAI--Learn">Practical Deep Learning for Coders - Part I (FastAI)</a>
 
 ### Undergrad AI
-- <a href="https://github.com/hAI-FA001/Artificial-Intelligence-Lab">Artificial Intelligence Labs</a>
-- <a href="https://github.com/hAI-FA001/Machine-Learning">Machine Learning (Algorithm Implementations)</a>
-- <a href="https://github.com/hAI-FA001/Computer-Vision---From-Classical-to-Deep-Learning">Undergrad Computer Vision (Classical + Deep Learning)</a>
+- <a href="https://github.com/l-laidev/Artificial-Intelligence-Lab">Artificial Intelligence Labs</a>
+- <a href="https://github.com/l-laidev/Machine-Learning">Machine Learning (Algorithm Implementations)</a>
+- <a href="https://github.com/l-laidev/Computer-Vision---From-Classical-to-Deep-Learning">Undergrad Computer Vision (Classical + Deep Learning)</a>
 
 ### Undergrad CS
-- <a href="https://github.com/hAI-FA001/Computer-Architecture-MIPS-Codes">Undergrad Computer Architecture (MIPS Assembly)</a>
-- <a href="https://github.com/hAI-FA001/Computer-Organization-and-Assembly-Language-Course">Undergrad Computer Organization and Assembly Language (Intel 8086 Assembly</a>
-- <a href="https://github.com/hAI-FA001/Design-and-Analysis-Of-Algorithms">Undergrad Design and Analysis of Algorithms (Implementation and Visualizations)</a>
-- <a href="https://github.com/hAI-FA001/Theory-of-Automata">Undergrad Theory of Automata (Turing, Mealy and Moore Machines)</a>
-- <a href="https://github.com/hAI-FA001/web-tech_fa21-bcs-001">Undergrad Web-Tech Course</a>
-- <a href="https://github.com/hAI-FA001/Digital-Image-Processing">Undergrad Digital Image Processing Course (MATLAB)</a>
+- <a href="https://github.com/l-laidev/Computer-Architecture-MIPS-Codes">Undergrad Computer Architecture (MIPS Assembly)</a>
+- <a href="https://github.com/l-laidev/Computer-Organization-and-Assembly-Language-Course">Undergrad Computer Organization and Assembly Language (Intel 8086 Assembly</a>
+- <a href="https://github.com/l-laidev/Design-and-Analysis-Of-Algorithms">Undergrad Design and Analysis of Algorithms (Implementation and Visualizations)</a>
+- <a href="https://github.com/l-laidev/Theory-of-Automata">Undergrad Theory of Automata (Turing, Mealy and Moore Machines)</a>
+- <a href="https://github.com/l-laidev/web-tech_fa21-bcs-001">Undergrad Web-Tech Course</a>
+- <a href="https://github.com/l-laidev/Digital-Image-Processing">Undergrad Digital Image Processing Course (MATLAB)</a>
 
 ### Non-AI Resources
-- <a href="https://github.com/hAI-FA001/laracasts-laravel-30-days">Laravel in 30 Days (Laracasts)</a>
-- <a href="https://github.com/hAI-FA001/React--Learn">ReactJS 18</a>
-- <a href="https://github.com/hAI-FA001/NextJS-14--Learn">NextJS 14</a>
-- <a href="https://github.com/hAI-FA001/React-Native--Learn">React Native</a>
-- <a href="https://github.com/hAI-FA001/Design-Patterns--Learn">Design Patterns</a>
-- <a href="https://github.com/hAI-FA001/Modern-Cpp--Learn">Modern C++</a>
+- <a href="https://github.com/l-laidev/laracasts-laravel-30-days">Laravel in 30 Days (Laracasts)</a>
+- <a href="https://github.com/l-laidev/React--Learn">ReactJS 18</a>
+- <a href="https://github.com/l-laidev/NextJS-14--Learn">NextJS 14</a>
+- <a href="https://github.com/l-laidev/React-Native--Learn">React Native</a>
+- <a href="https://github.com/l-laidev/Design-Patterns--Learn">Design Patterns</a>
+- <a href="https://github.com/l-laidev/Modern-Cpp--Learn">Modern C++</a>
 
 ### Grad Learnings
-- <a href="https://github.com/hAI-FA001/Explainable-AI-XAI">Explainable AI</a>
-- <a href="https://github.com/hAI-FA001/Quantum-Computing">Quantum Computing</a>
+- <a href="https://github.com/l-laidev/Explainable-AI-XAI">Explainable AI</a>
+- <a href="https://github.com/l-laidev/Quantum-Computing">Quantum Computing</a>
 
 <hr>
 
 ## 🛠️ Google Developer Group (GDG) Workshops Attended
-- <a href="https://github.com/hAI-FA001/GDG-Flutter-Workshop-Agentic-App">Agentic App with Flutter</a>
+- <a href="https://github.com/l-laidev/GDG-Flutter-Workshop-Agentic-App">Agentic App with Flutter</a>
 - Gemini CLI (demonstrated by making a portfolio)
 - Learn Flutter (demonstrated by integrating with firebase for authentication, and making UI forms)
 - Code faster with GitHub Copilot (demonstrated by making a portfolio)
@@ -149,25 +149,25 @@ Other tools I've encountered.
 <hr>
 
 ## ✨ Open-Source Contributions
-- <a href="https://github.com/hAI-FA001/satlas-super-resolution">Satlas Super Resolution</a>
+- <a href="https://github.com/l-laidev/satlas-super-resolution">Satlas Super Resolution</a>
   - CPU inference
   - Fixes
   - Change OpenAI CLIP Location
   - Show current metric in progress bar for evals
   - Misc
 - Updates and Maintainence of PyXenoverse and YA-Tools:
-  - <a href="https://github.com/hAI-FA001/pyxenoverse">PyXenoverse</a>
-  - <a href="https://github.com/hAI-FA001/YaBACOrganizer">YaBAC Organizer</a>
-  - <a href="https://github.com/hAI-FA001/YaEANOrganizer">YaEAN Organizer</a>
-  - <a href="https://github.com/hAI-FA001/YaBSAOrganizer">YaBSA Organizer</a>
-  - <a href="https://github.com/hAI-FA001/YaBDMOrganizer">YaBDM Organizer</a>
-  - <a href="https://github.com/hAI-FA001/YaBCMOrganizer">YaBCM Organizer</a>
-- <a href="https://github.com/hAI-FA001/finetune-anything">finetune-anything</a>
+  - <a href="https://github.com/l-laidev/pyxenoverse">PyXenoverse</a>
+  - <a href="https://github.com/l-laidev/YaBACOrganizer">YaBAC Organizer</a>
+  - <a href="https://github.com/l-laidev/YaEANOrganizer">YaEAN Organizer</a>
+  - <a href="https://github.com/l-laidev/YaBSAOrganizer">YaBSA Organizer</a>
+  - <a href="https://github.com/l-laidev/YaBDMOrganizer">YaBDM Organizer</a>
+  - <a href="https://github.com/l-laidev/YaBCMOrganizer">YaBCM Organizer</a>
+- <a href="https://github.com/l-laidev/finetune-anything">finetune-anything</a>
   - Post-Training Quantization + support for x86 architectures
   - CPU inference
   - Loss curve visualization script
   - Integration of `torchinfo` for displaying model architecture
-- <a href="https://github.com/hAI-FA001/flask-ml-azure-serverless">Flask ML Azure Serverless</a>
+- <a href="https://github.com/l-laidev/flask-ml-azure-serverless">Flask ML Azure Serverless</a>
   - Update to Python 3.12
   - Update trained ML model for compatibility with newer Scikit-Learn
   - Fixes
@@ -178,27 +178,27 @@ Other tools I've encountered.
 <hr>
 
 ## 🔧 Open-Source Tools
-- <a href="https://github.com/hAI-FA001/CUI-Time-Table-To-Dataset--Utility">University Schedule -> CSV Dataset, with Jupyter Notebook Analysis</a>
-- <a href="https://github.com/hAI-FA001/Test-Web-Concepts">Reference for Complex WebDev Setups</a>
+- <a href="https://github.com/l-laidev/CUI-Time-Table-To-Dataset--Utility">University Schedule -> CSV Dataset, with Jupyter Notebook Analysis</a>
+- <a href="https://github.com/l-laidev/Test-Web-Concepts">Reference for Complex WebDev Setups</a>
   - Cross-Domain HTTP Cookies/Session setup
-- <a href="https://github.com/hAI-FA001/UEFormat-Exporter">UEFormat Exporter Add-on for Blender3D</a>
-- <a href="https://github.com/hAI-FA001/Extract-Images-from-DICOM">DICOM/DCM Image Extractor</a>
-- <a href="https://github.com/hAI-FA001/Reusable-Scripts">Some scripts and utilities for Remote Sensing and Deep Learning.</a>
+- <a href="https://github.com/l-laidev/UEFormat-Exporter">UEFormat Exporter Add-on for Blender3D</a>
+- <a href="https://github.com/l-laidev/Extract-Images-from-DICOM">DICOM/DCM Image Extractor</a>
+- <a href="https://github.com/l-laidev/Reusable-Scripts">Some scripts and utilities for Remote Sensing and Deep Learning.</a>
 <hr>
 
 ## ⚡️ Statistics
 
 <br>
 
-<!-- <a href="https://github.com/hAI-FA001">
-  <img height=200 width=1000 align="center" src="https://github-readme-stats.vercel.app/api?username=hai-fa001&theme=dracula&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="hAI-FA001's GitHub Stats" />
+<!-- <a href="https://github.com/l-laidev">
+  <img height=200 width=1000 align="center" src="https://github-readme-stats.vercel.app/api?username=l-laidev&theme=dracula&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="l-laidev's GitHub Stats" />
 </a> -->
 ![Stats](./profile/stats.svg)
-<!-- <a href="https://github.com/hAI-FA001"> -->
-<!--   <img height=400 width=1000 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hai-fa001&theme=dracula&layout=donut-vertical&hide=jupyter%20notebook&langs_count=13&border_radius=10&show_icons=true&locale=en&count_private=true" alt="hAI-FA001's Most Used Languages" /> -->
+<!-- <a href="https://github.com/l-laidev"> -->
+<!--   <img height=400 width=1000 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=l-laidev&theme=dracula&layout=donut-vertical&hide=jupyter%20notebook&langs_count=13&border_radius=10&show_icons=true&locale=en&count_private=true" alt="l-laidev's Most Used Languages" /> -->
 <!-- </a> -->
-<!-- <a href="https://github.com/hAI-FA001">
-  <img height=200 width=1000 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hai-fa001&theme=dracula&count_private=true&border_radius=10&locale=en" alt="hAI-FA001's GitHub Streak Stats" />
+<!-- <a href="https://github.com/l-laidev">
+  <img height=200 width=1000 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=l-laidev&theme=dracula&count_private=true&border_radius=10&locale=en" alt="l-laidev's GitHub Streak Stats" />
 </a> -->
 
 <hr>
@@ -207,9 +207,9 @@ Other tools I've encountered.
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hAI-FA001/hAI-FA001/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hAI-FA001/hAI-FA001/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/hAI-FA001/hAI-FA001/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/l-laidev/l-laidev/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/l-laidev/l-laidev/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/l-laidev/l-laidev/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
