@@ -182,6 +182,7 @@ Other tools I've encountered.
 - <a href="https://github.com/l-laidev/Test-Web-Concepts">Reference for Complex WebDev Setups</a>
   - Cross-Domain HTTP Cookies/Session setup
 - <a href="https://github.com/l-laidev/UEFormat-Exporter">UEFormat Exporter Add-on for Blender3D</a>
+- <a href="https://github.com/l-laidev/blender_mirror_xv2_anim">XV2 Animation Mirroring Add-on for Blender3D</a>
 - <a href="https://github.com/l-laidev/Extract-Images-from-DICOM">DICOM/DCM Image Extractor</a>
 - <a href="https://github.com/l-laidev/Reusable-Scripts">Some scripts and utilities for Remote Sensing and Deep Learning.</a>
 <hr>
